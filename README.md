@@ -1,2 +1,4 @@
-# electromagnetic-field-and-electromagnetic-waves
-electromagnetic field and electromagnetic waves
+#电磁场与电磁波仿真实验
+## 1、静态场仿真
+## 2、电磁波传播特性仿真
+
